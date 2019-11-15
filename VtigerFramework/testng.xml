@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="UTF-8"?>	<!-- UFT-8 mean for coding standard -->
+<!DOCTYPE suite SYSTEM "http://testng.org/testng-1.0.dtd">
+
+<suite name="Suite">
+
+  <test thread-count="5" name="Test">
+    <classes>
+      <class name="com.vtiger.opportunity.SearchOpportunityByContainsOptionWithValidCharactereTc_53"/>
+      <class name="com.vtiger.opportunity.SearchOpportunityByContainsOptionWithValidNameTc_48"/>
+      <class name="com.vtiger.opportunity.SearchOpportunityByEqualsOptionWithValidNameTc_45"/>
+    </classes>
+  </test> <!-- Test -->
+
+</suite> <!-- Suite -->
