@@ -19,7 +19,7 @@ import com.vtiger.GenericLib.BaseClass;
  */
 
 @Listeners(com.vtiger.GenericLib.ListnerImplClass.class)
- public class EditleadsusingeditandverifytheleadinformationTc_30 extends BaseClass {
+public class EditleadsusingeditandverifytheleadinformationTc_30 extends BaseClass {
 
 	@Test
 	public void EditleadsusingeditandverifytheleadinformationTc_30Test()
